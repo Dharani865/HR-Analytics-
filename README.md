@@ -1,15 +1,21 @@
 1.Project Title:
+
    HR Analytics 
    
 2.Description:
+
     This HR Analytics Dashboard, likely built with Power BI, provides insights into employee attrition and other key HR metrics. 
     
 3.Purpose:
+
    To analyze employee turnover trends and identify key factors influencing attrition.To visualize various data points related to HR, such as employee demographics, job roles, and salary bands, in relation to attrition. 
 
 4.Tech Stack :
-   Key technologies used to built the dashboard:.
+
+   Key technologies used to built the dashboard:
+   
       The dashboard was built using the following tools and Technologies:
+      
        * Power BI or Tableau – Data visualization platform used for report creation.
        * Excel / CSV – Data source
        * Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
@@ -18,8 +24,10 @@
        * File Format - .pbix for devolopment and .png for Dashboard previews.
        * Slicers - to explore various HR metrics.
 
-5.KPI's -Key Performance Indicators :  
+5.KPI's -Key Performance Indicators :
+
     The Key Performance Indicators (KPIs) presented in this HR Analytics Dashboard are primarily focused on employee attrition and related HR metrics:
+    
          * Employee Count: Total number of employees (1480).
          * Attrition Count: Number of employees who have left the company (238).
          * Attrition Rate: Percentage of employees who have left (16.1%).
@@ -34,7 +42,9 @@
          
 
 4.Dashboard Insights: 
+
    Key findings from the dashboard:
+   
       * Overall Attrition:
           Displays the total employee count, attrition count, and attrition rate (e.g., 1480 employees, 238 attrition count, 16.1% attrition rate).
       * Attrition by Demographics:
@@ -46,6 +56,7 @@
           Provides average age, average salary, and average years at the company for the workforce (e.g., 37 years, 6.5K salary, 7.0 years).
 
 5.Screenshot : 
+
   The dashborad looks like , 
   Preview Dashboard : https://github.com/Dharani865/HR-Analytics-/blob/main/HR%20Analytics.png
 
