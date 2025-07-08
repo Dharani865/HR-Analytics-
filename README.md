@@ -1,6 +1,6 @@
 1.Project Title:
 
-   HR Analytics 
+    HR Analytics 
    
 2.Description:
 
@@ -8,7 +8,7 @@
     
 3.Purpose:
 
-   To analyze employee turnover trends and identify key factors influencing attrition.To visualize various data points related to HR, such as employee demographics, job roles, and salary bands, in relation to attrition. 
+    To analyze employee turnover trends and identify key factors influencing attrition.To visualize various data points related to HR, such as employee demographics, job roles, and salary bands, in relation to attrition. 
 
 4.Tech Stack :
 
@@ -58,5 +58,5 @@
 5.Screenshot : 
 
   The dashborad looks like , 
-  Preview Dashboard : https://github.com/Dharani865/HR-Analytics-/blob/main/HR%20Analytics.png
+  Preview Dashboard :  https://github.com/Dharani865/HR-Analytics-/blob/main/HR%20Analytics.png
 
